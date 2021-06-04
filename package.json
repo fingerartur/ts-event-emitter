@@ -4,7 +4,7 @@
   "description": "Event emitter for typescript",
   "author": "Artur Finger",
   "license": "ISC",
-  "repository": "/sdk",
+  "repository": "https://github.com/fingerartur/ts-event-emitter",
   "main": "dist/index.js",
   "engines": {
     "node": ">=10"
