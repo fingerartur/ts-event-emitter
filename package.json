@@ -1,9 +1,10 @@
 {
-  "name": "ts-event-emitter",
-  "version": "1.0.0",
+  "name": "@fingerartur/ts-event-emitter",
+  "version": "1.0.1",
   "description": "Event emitter for typescript",
   "author": "Artur Finger",
   "license": "ISC",
+  "keywords": [ "event", "emitter" ],
   "repository": "https://github.com/fingerartur/ts-event-emitter",
   "main": "dist/index.js",
   "engines": {
