@@ -3,6 +3,7 @@ const webpack = require('webpack')
 
 module.exports = (env) => ({
     devtool: false,
+    target: [ 'web',  'es5' ],
     mode: 'production',
     entry: './src/index.ts',
     module: {
