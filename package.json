@@ -1,6 +1,6 @@
 {
   "name": "@fingerartur/ts-event-emitter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Event emitter for typescript",
   "author": "Artur Finger",
   "license": "ISC",
